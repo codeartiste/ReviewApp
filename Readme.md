@@ -1,4 +1,3 @@
-
 #Movie Reviews NYT
 ##Design
 *Json document will be retrieved as a block of 20 records
