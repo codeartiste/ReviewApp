@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/listview_item_no_internet"
+        android:layout_width="match_parent"
+        android:layout_height="75dp"
+        android:text="No Internet"
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="24sp" />
+
+</LinearLayout>
